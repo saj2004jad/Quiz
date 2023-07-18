@@ -1,4 +1,4 @@
-# flutter_coeez
+# flutter_quiz
 
 A new Flutter project.
 
